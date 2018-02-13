@@ -3,6 +3,10 @@ Qu'est ce que c'est
 
 Ceci est un clavier kabyle pour Linux. Il permet d'écrire l'alphabet Kabyle Latin (Tamεamrit)
 
+Suivez-nous, l'installation ne prend que 2 minutes.
+
+Rnu snat (2') n dqayeq kan a-ttaruḍ s Teqbaylit.
+
 Installation
 ============
 
