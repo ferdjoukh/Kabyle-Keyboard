@@ -1,0 +1,26 @@
+// Kabyle keyboard based on Amazigh Latin Alphabet
+//
+// Credits: Adel Ferdjoukh (ferdjoukh@gmail.com)
+//
+default  partial alphanumeric_keys alternate_group
+xkb_symbols "basic" {
+	
+	include "fr(basic)"
+
+	key <AC01>	{ [         q,          Q,     Greek_gamma,    Greek_GAMMA, noymbol,noymbol,noymbol,noymbol ] };
+	key <AB01>	{ [         w,          W,     Greek_epsilon,  Greek_EPSILON, noymbol,noymbol,noymbol,noymbol ] };
+	key <AC05>	{ [         g,          G,     gcaron,         Gcaron, noymbol,noymbol,noymbol,noymbol ] };
+	key <AB03>  { [         c,          C,     ccaron,         Ccaron, noymbol,noymbol,noymbol,noymbol  ] };
+			
+	key <AC02>	{ [         s,          S,     U1E63,     U1E62, noymbol,noymbol,noymbol,noymbol  ] };
+	key <AC03>  { [         d,          D,     U1E0D,     U1E0C, noymbol,noymbol,noymbol,noymbol  ] };
+	key <AD02>  { [         z,          Z,     U1E93,     U1E92, noymbol,noymbol,noymbol,noymbol  ] };
+    key <AC06> 	{ [         h,          H,     U1E25,     U1E24, noymbol,noymbol,noymbol,noymbol  ] };
+	key <AD05> 	{ [         t,          T,     U1E6D,     U1E6C, noymbol,noymbol,noymbol,noymbol  ] };
+	key <AD04> 	{ [         r,          R,     U1E5B,     U1E5A, noymbol,noymbol,noymbol,noymbol  ] };
+
+	include "level3(ralt_switch)"
+
+};
+
+	

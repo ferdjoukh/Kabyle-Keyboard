@@ -7,6 +7,8 @@ Ceci est un clavier kabyle pour Linux. Il permet d'écrire l'alphabet Kabyle Lat
 Fonctionnement
 ==============
 
+Pour pouvoir taper les différentes caractères spéciaux de l'alphabet kabyle, vous devez procéder comme suit:
+
 - ẓ = alt gr + z
 - ṛ = alt gr + r
 - ṣ = alt gr + s
@@ -17,3 +19,7 @@ Fonctionnement
 
 - γ = alt gr + q
 - ε = alt gr + w
+
+Pour les majuscules, il suffit d'ajout un appui sur **shift**. Par exemple:
+
+- Γ = alt gr + shift + q
