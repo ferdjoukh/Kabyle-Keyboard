@@ -6,7 +6,7 @@ Ceci est un clavier kabyle pour Linux. Il permet d'écrire l'alphabet Kabyle Lat
 Installation
 ============
 
-Télécharger le projet depuis ![ce lien](https://github.com/ferdjoukh/Kabyle-Keyboard)
+Télécharger le projet depuis [ce lien](https://github.com/ferdjoukh/Kabyle-Keyboard)
 
 Fonctionnement
 ==============
