@@ -41,7 +41,7 @@ Pour pouvoir taper les différentes caractères spéciaux de l'alphabet kabyle, 
 | ḥ         | `alt gr` + `h` |
 | ǧ         | `alt gr` + `g` |
 | č         | `alt gr` + `c` |
-| γ         | `alt gr` + `q` |
+| ɣ         | `alt gr` + `q` |
 | ε         | `alt gr` + `w` |
 
 Pour les majuscules, il suffit d'ajout un appui sur **shift**.
@@ -55,7 +55,7 @@ Pour les majuscules, il suffit d'ajout un appui sur **shift**.
 | Ǧ         | `alt gr` + `shift` + `g` |
 | Č         | `alt gr` + `shift` + `c` |
 | Γ         | `alt gr` + `shift` + `q` |
-| Ε         | `alt gr` + `shift` + `w` |
+| Ɛ         | `alt gr` + `shift` + `w` |
 
 
 Plus d'infos
