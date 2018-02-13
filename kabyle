@@ -8,7 +8,7 @@ xkb_symbols "basic" {
 	include "fr(basic)"
 
 	key <AC01>	{ [         q,          Q,     Greek_gamma,    Greek_GAMMA, noymbol,noymbol,noymbol,noymbol ] };
-	key <AB01>	{ [         w,          W,     Greek_epsilon,  Greek_EPSILON, noymbol,noymbol,noymbol,noymbol ] };
+	key <AB01>	{ [         w,          W,     Greek_epsilon,  U0190, noymbol,noymbol,noymbol,noymbol ] };
 	key <AC05>	{ [         g,          G,     gcaron,         Gcaron, noymbol,noymbol,noymbol,noymbol ] };
 	key <AB03>  { [         c,          C,     ccaron,         Ccaron, noymbol,noymbol,noymbol,noymbol  ] };
 			
